@@ -1,0 +1,42 @@
+{
+    "name": "code-snippits",
+    "displayName": "Code Snippits",
+    "description": "Generate HTML, CSS and JavaScript snippits!",
+    "version": "0.0.1",
+    "publisher": "emil",
+    "icon": "icon2.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Emil0hman/Code_Snippits_vscode"
+    },
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
