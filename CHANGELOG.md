@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to the "Code Snippits" extension will be documented in this file.
 
-## [0.0.3]
+## [0.0.4]
 - Fixed a bug where _css-class didn't work
 
 ## [0.0.2]
