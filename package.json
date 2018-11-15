@@ -19,23 +19,23 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippets_html.json"
             },
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippets_js.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippets_css.json"
             },
             {
                 "language": "typescript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippets_js.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippets_css.json"
             }
         ]
     }
