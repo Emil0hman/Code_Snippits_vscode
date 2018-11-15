@@ -1,10 +1,20 @@
-{"CSS ID Selector": {
-    "prefix": "_css-id",
-    "body": [
-        "#${1:selector} {",
-        "   ${2:content}",
-        "}"
-    ],
-    "description": "Standard CSS ID Selector"
-}
+{
+    "CSS ID Selector": {
+        "prefix": "_css-id",
+        "body": [
+            "#${1:selector} {",
+            "   ${2:content}",
+            "}"
+        ],
+        "description": "Standard CSS ID Selector"
+    },
+    "CSS Class Selector": {
+        "prefix": "_css-class",
+        "body": [
+            ".${1:selector} {",
+            "   ${2:content}",
+            "}"
+        ],
+        "description": "Standard CSS Class Selector"
+    }
 }

@@ -2,7 +2,7 @@
     "name": "code-snippits",
     "displayName": "Code Snippits",
     "description": "Generate HTML, CSS and JavaScript snippits!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "emil",
     "icon": "icon2.png",
     "repository": {
