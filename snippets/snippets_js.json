@@ -1,0 +1,58 @@
+{
+    "JS Function Template": {
+        "prefix": "_js-func",
+        "body": [
+            "function ${1:name}() {",
+            "   ${2:content}",
+            "}"
+        ],
+        "description": "Standard JS Function"
+    },
+    "JS Class Template": {
+        "prefix": "_js-class",
+        "body": [
+            "class ${1:name} {",
+            "   constructor(${2:parameters}) {",
+            "       ${3:content}",
+            "   }",
+            "${0}"
+        ],
+        "description": "Standard JS Class"
+    },
+    "JS If Template": {
+        "prefix": "_js-if",
+        "body": [
+            "if (${1:condition}) {",
+            "   ${2:content}",
+            "}"
+        ],
+        "description": "Standard JS If Statment"
+    },
+    "JS Else Template": {
+        "prefix": "_js-else",
+        "body": [
+            "else {",
+            "   ${1:content}",
+            "}"
+        ],
+        "description": "Standard JS Else Statment"
+    },
+    "JS Else If Template": {
+        "prefix": "_js-elseif",
+        "body": [
+            "else if (${1:condition}) {",
+            "   ${2:content}",
+            "}"
+        ],
+        "description": "Standard JS Else If Statment"
+    },
+    "CSS Class Selector": {
+        "prefix": "_css-class",
+        "body": [
+            ".${1:selector} {",
+            "   ${2:content}",
+            "}"
+        ],
+        "description": "Standard CSS Class Selector"
+    }
+}
