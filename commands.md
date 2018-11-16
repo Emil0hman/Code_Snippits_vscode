@@ -4,6 +4,9 @@
 |Command|Description|
 |---|---|
 |`_html-start`|Creates an HTML Starting Templete|
+|`_html-linkcss`|Creates a Link to a CSS File|
+|`_html-linkjs`|Creates a Link to a JavaScript File|
+|`_html-img`|Creates a Image Template|
 
 ## CSS
 |Command|Description|

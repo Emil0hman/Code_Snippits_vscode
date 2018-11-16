@@ -18,5 +18,26 @@
             "</html>"
         ],
         "description": "Standard HTML Start Template"
+    },
+    "HTML Link CSS Template": {
+        "prefix": "_html-linkcss",
+        "body": [
+            "<link rel=\"stylesheet\" href=\"${1:src}\">"
+        ],
+        "description": "Standard HTML CSS Link Template"
+    },
+    "HTML Link JS Template": {
+        "prefix": "_html-linkjs",
+        "body": [
+            "<script src=\"${1:src}\"></script>"
+        ],
+        "description": "Standard HTML JS Link Template"
+    },
+    "HTML Image Template": {
+        "prefix": "_html-img",
+        "body": [
+            "<img src=\"${1:src}\">"
+        ],
+        "description": "Standard HTML img Template"
     }
 }

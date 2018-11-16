@@ -1,5 +1,5 @@
 # Code Snippits README
-Code Snippits is an Visual Studio Code extention used for creating snippits.<br>
+Code Snippits is an Visual Studio Code extention used for creating snippets.<br>
 [GitHub](https://github.com/Emil0hman/Code_Snippits_vscode)
 
 ## Features
@@ -8,6 +8,9 @@ An example is _js-if, which creates an if statement template. For all possible c
 
 ## Known Issues
 None yet, please report them if you find any!
+
+## Contributing
+Prease report them in the issues tab. You can also request snippets there.
 
 ## Authors
 - Emil Öhman [emilohman.nu](http://emilohman.nu)

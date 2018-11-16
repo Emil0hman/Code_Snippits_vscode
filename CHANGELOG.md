@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "Code Snippits" extension will be documented in this file.
 
+## [0.0.6]
+- Fixed [README.md](README.md)
+- Added a few commands
+
 ## [0.0.5]
 - Bug fixes
 
