@@ -15,7 +15,8 @@
             "   constructor(${2:parameters}) {",
             "       ${3:content}",
             "   }",
-            "${0}"
+            "${0}",
+            "}"
         ],
         "description": "Standard JS Class"
     },
@@ -45,14 +46,5 @@
             "}"
         ],
         "description": "Standard JS Else If Statment"
-    },
-    "CSS Class Selector": {
-        "prefix": "_css-class",
-        "body": [
-            ".${1:selector} {",
-            "   ${2:content}",
-            "}"
-        ],
-        "description": "Standard CSS Class Selector"
     }
 }
