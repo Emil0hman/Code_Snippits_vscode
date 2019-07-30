@@ -1,3 +1,5 @@
+# **_ARCHIVED PROJECT:_** This project is no longer maintained
+
 # Code Snippits README
 Code Snippits is an Visual Studio Code extention used for creating snippets.<br>
 [GitHub](https://github.com/Emil0hman/Code_Snippits_vscode)
